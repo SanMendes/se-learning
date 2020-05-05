@@ -1,9 +1,5 @@
 <template>
   <v-app>
-    <meta
-      http-equiv="origin-trial"
-      content="Av9Dm2plLkYprhIqpnii86EBd3ivEVIyBgH/EC4R0EymZSa2FMUKr04pAHi0x25IKSU6PuQ1X0XqYVjok9yVFQkAAABneyJvcmlnaW4iOiJodHRwczovL3NlLWxlYXJuaW5nLmhlcm9rdWFwcC5jb206NDQzIiwiZmVhdHVyZSI6Ik5vdGlmaWNhdGlvblRyaWdnZXJzIiwiZXhwaXJ5IjoxNTkyMjY2ODE1fQ=="
-    />
     <v-app-bar app color="primary" dark>
       <div class="d-flex align-center">
         <v-img
